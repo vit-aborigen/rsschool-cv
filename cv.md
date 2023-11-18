@@ -1,7 +1,5 @@
 # Vitali Kazlou
 
----
-
 ## Contacts
 **Phone**: +48 789 174 000 / +375 29 33 191 73
 
