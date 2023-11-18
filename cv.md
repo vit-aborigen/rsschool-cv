@@ -22,12 +22,14 @@ Also enthusiastic programmer with a passion for problem-solving and creativity. 
 
 
 ## Code Example
+'''
 The last piece of code I wrote before RSSchool
             if !store.state.user.bioOnboardingCompleted {
                 BiorhythmDimScreenView(verticalOffset: dimScreenVerticalOffset, hintSize: CGSize(width: 294 * Self.widthScale, height: 400 * Self.heightScale))
                     .onChange(of: store.state.tabs.currentViewTab) { newTab in
                         if newTab == .biorhythm {
                             store.send(.tabs(action: .setIsDarken(true)))
+'''
 
 
 
