@@ -4,7 +4,9 @@
 
 ## Contacts
 **Phone**: +48 789 174 000 / +375 29 33 191 73
+
 **Email**: <vit.aborugen@gmail.com>
+
 [LinkedIn](https://www.linkedin.com/in/vitali-kazlou-47ba713/)
 
 
