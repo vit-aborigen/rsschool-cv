@@ -7,6 +7,7 @@
 **Email**: <vit.aborugen@gmail.com>
 [LinkedIn](https://www.linkedin.com/in/vitali-kazlou-47ba713/)
 
+
 ## About me:
 Product manager with a track record of creating products that meet the needs of enterprises. I have experience in leading distributed teams ranging from 5 to 30 people for more than 12 years. Launched data processing product that increased saled by 70%.
 
@@ -22,15 +23,14 @@ Also enthusiastic programmer with a passion for problem-solving and creativity. 
 
 
 ## Code Example
-'''
+```swift
 The last piece of code I wrote before RSSchool
             if !store.state.user.bioOnboardingCompleted {
                 BiorhythmDimScreenView(verticalOffset: dimScreenVerticalOffset, hintSize: CGSize(width: 294 * Self.widthScale, height: 400 * Self.heightScale))
                     .onChange(of: store.state.tabs.currentViewTab) { newTab in
                         if newTab == .biorhythm {
                             store.send(.tabs(action: .setIsDarken(true)))
-'''
-
+```
 
 
 ## Experience
