@@ -32,31 +32,31 @@ The last piece of code I wrote before RSSchool
 
 
 ## Experience
-**TopSoft Pty LTD, Sydney, NSW, Australia**
+ - **TopSoft Pty LTD, Sydney, NSW, Australia**
 Product Manager
 2022-2023
 
-**ITSoft, Minsk, Belarus**
+ - **ITSoft, Minsk, Belarus**
 Product Manager
 2015-2022
 
-**ITSoft, Minsk, Belarus**
+ - **ITSoft, Minsk, Belarus**
 Project Manager
 2011-2015
 
-**ITSoft, Minsk, Belarus**
+ - **ITSoft, Minsk, Belarus**
 Software engineer (automated testing) / Head of QA
 2005-2011
 
 
 ## Education
-### B.S. Business Administration - BSU, 2008-2012, Minsk, Belarus
-### M.S. IT engineer - BSUIR, 2007-2008, Minsk, Belarus
-### B.S. IT engineer - BSUIR, 2002-2007, Minsk, Belarus
-### PSM-I, PSPO-I
+#### B.S. Business Administration - BSU, 2008-2012, Minsk, Belarus
+#### M.S. IT engineer - BSUIR, 2007-2008, Minsk, Belarus
+#### B.S. IT engineer - BSUIR, 2002-2007, Minsk, Belarus
+#### PSM-I, PSPO-I
 
 
-##Languages
+## Languages
  - Belarussian / Russian - Native
  - English - B2 / C1
  - Polish - A2 / B1
