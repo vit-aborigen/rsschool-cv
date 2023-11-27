@@ -38,7 +38,7 @@ header {
 }
 
 body {
-    width: 50%;
+    width: 70%;
     margin: auto;
     background-color: #FAF9F6;
 }
@@ -58,14 +58,14 @@ body {
     flex-direction: row;
 }
 
-.column_1 {
+.column_left {
     width: 25%;
     background-color: #F2F3F5;
     padding-right: 5px;
     justify-content: flex-start;
 }
 
-.column_2 {
+.column_right {
     width: 75%;
     padding: 3px;
 }
