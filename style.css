@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0px;
+    border: solid;
 }
 
 h1 {
@@ -68,6 +69,7 @@ body {
 
 .column_2 {
     width: 75%;
+    padding: 3px;
 }
 
 .small_icon {
