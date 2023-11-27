@@ -25,6 +25,11 @@ h3 {
     text-transform: uppercase;
 }
 
+pre {
+    display: inline;
+    margin: 0px;
+}
+
 footer, header {
     display: flex;
     flex-direction: row;
@@ -85,4 +90,8 @@ body {
 .credentials {
     margin-left: 3px;
     margin-bottom: 2em;
+}
+
+.right_column:not(#code_sample) {
+    margin-bottom: 1em;
 }

@@ -66,8 +66,8 @@
                     <article>
                         <section class="right_column" id="about_me">
                             <h3>About me</h3>
-                            <p>Product manager with a track record of creating products that meet the needs of enterprises. I have experience in leading distributed teams ranging from 5 to 30 people for more than 12 years. Launched data processing product that increased saled by 70%.</p>
-                            <hr>
+                            <p>Product manager with a track record of creating products that meet the needs of enterprises. I have experience in leading distributed teams ranging from 5 to 30 people for more than 12 years. Launched data processing product that increased sales by 70%.</p>
+                            <br>
                             <p>Also enthusiastic programmer with a passion for problem-solving and creativity. My journey in programming began during my school and university years, where I consistently participated in coding contests. Despite pursuing a career in project management, I find solace in returning to programming. I love coding because it lets me be creative and make cool things. It’s like a constant source of joy, and I’m always excited to dive into the world of algorithms and code.</p>
                         </section>
                         
@@ -94,17 +94,15 @@
 
                         <section class="right_column" id="code_sample">
                             <h3>Code</h3>
-                            <pre>
-                                <code>
-def largest_histogram(histogram):
-    result, width = 0, len(histogram) + 1
-    for i in range(1, width):
-        for j in range(width - i):
-            rect = i * min(histogram[j:][:i])
-            result = max(result, rect)
-    return result
-                                </code>
-                            </pre>
+                            <code>
+                                def largest_histogram(histogram):<br>
+                                &emsp;result, width = 0, len(histogram) + 1<br>
+                                &emsp;for i in range(1, width):<br>
+                                &emsp;&emsp;for j in range(width - i):<br>
+                                &emsp;&emsp;&emsp;rect = i * min(histogram[j:][:i])<br>
+                                &emsp;&emsp;&emsp;result = max(result, rect)<br>
+                                &emsp;return result<br>
+                            </code>
                         </section>
                     </article>
                 </div>
