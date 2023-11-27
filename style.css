@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
     margin: 0px;
-    border: solid;
 }
 
 h1 {
@@ -11,6 +10,10 @@ h1 {
 
 h2 {
     font: 18px Arial;
+}
+
+ul {
+    list-style: none;
 }
 
 h3 {
@@ -62,9 +65,13 @@ body {
     font: bold 1.2em Verdana;
 }
 
-
+.columns_layout {
+    display: flex;
+    position: relative;
+}
 
 .column_1 {
+    box-sizing: content-box;
     background-color: #F2F3F5;
     width: 30%;
     padding-right: 5px;
@@ -76,14 +83,8 @@ body {
     margin-right: 3px;
 }
 
-ul {
+.about ul {
     list-style-position: inside;
-    list-style: none;
     padding-left: 2px;
 }
 
-.credentials {
-    display: flex;
-    flex-flow: column wrap;
-    margin-bottom: 1.5em;
-}
