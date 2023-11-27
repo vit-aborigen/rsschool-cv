@@ -12,10 +12,6 @@ h2 {
     font: 18px Arial;
 }
 
-ul {
-    list-style: none;
-}
-
 h3 {
     color: #3C4142;
     font-size: 16px;
@@ -25,9 +21,8 @@ h3 {
     text-transform: uppercase;
 }
 
-pre {
-    display: inline;
-    margin: 0px;
+ul {
+    list-style: none;
 }
 
 footer, header {
@@ -59,9 +54,8 @@ body {
 
 .columns_layout {
     display: flex;
+    flex: 1;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-start;
 }
 
 .column_1 {
